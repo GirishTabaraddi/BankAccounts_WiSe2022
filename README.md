@@ -2,7 +2,7 @@
 
 Topic of this exam is the modelling of some data related to customers of a bank (see picture below). A bank has customers who have one or more accounts. Accounts can be of different type. The current account (a.k.a. checking account, German: Girokonto), usually only used for transferring money. A savings account (German: Sparkonto) that earns interest on the money deposited in it. A certificate of deposit (CD) account (German: Festgeldkonto) that earns higher interest if you leave your money in the account for a fixed term.
 
-![Bank_UML]()
+![Bank_UML](https://github.com/GirishTabaraddi/BankAccounts_WiSe2022/blob/feature/add-repo/Bank_UML.png)
 
 The diagram shows only the classes and their relationships. You’ll find the attributes and methods in the class definitions.
 
